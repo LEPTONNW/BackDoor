@@ -7,8 +7,6 @@
 
 /help 명령어설명을 불러옵니다.
 
-/다운로드 : Void Seeker 가 관리하는 파일을 zip파일로 다운로드 받습니다.
-
 ※관리목록 : work, factory
 
 
