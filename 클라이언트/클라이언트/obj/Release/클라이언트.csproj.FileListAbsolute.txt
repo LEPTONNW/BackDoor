@@ -1,7 +1,0 @@
-D:\개발2023\클라이언트\클라이언트\bin\Release\클라이언트.exe.config
-D:\개발2023\클라이언트\클라이언트\bin\Release\클라이언트.exe
-D:\개발2023\클라이언트\클라이언트\bin\Release\클라이언트.pdb
-D:\개발2023\클라이언트\클라이언트\obj\Release\클라이언트.csproj.AssemblyReference.cache
-D:\개발2023\클라이언트\클라이언트\obj\Release\클라이언트.csproj.CoreCompileInputs.cache
-D:\개발2023\클라이언트\클라이언트\obj\Release\클라이언트.exe
-D:\개발2023\클라이언트\클라이언트\obj\Release\클라이언트.pdb
